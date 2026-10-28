@@ -2,7 +2,9 @@
 
 **五条悟 vs 宿傩。回合制，可以自己上手打。单个 HTML 文件 —— 打开就能打，断网也能打。**
 
-[▶ 在线试玩](https://linziyang777.github.io/jjk-shinjuku-battle/)　·　[⤓ 下载单文件](https://github.com/linziyang777/jjk-shinjuku-battle/raw/main/index.html)　·　47 MB　·　零依赖
+[▶ 在线试玩](https://jjk-shinjuku-battle-83982.app.workbuddy.host/)　·　[⤓ 下载单文件](https://github.com/linziyang777/jjk-shinjuku-battle/raw/main/index.html)　·　47 MB　·　零依赖
+
+> 试玩走的是国内节点。同一份文件也发布在 [GitHub Pages](https://linziyang777.github.io/jjk-shinjuku-battle/)，海外访问反而更顺；国内打开要等几分钟——47 MB 摆在那儿，绕不过去。
 
 ![人外魔境 · 新宿决战](docs/cover.jpg)
 
