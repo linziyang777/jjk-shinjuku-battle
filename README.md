@@ -14,6 +14,15 @@
 
 六名可操作角色，招式、领域、语音各不相同。
 
+## 长什么样
+
+<p align="center">
+  <img src="docs/select.jpg" width="31%" alt="选人界面">
+  <img src="docs/intro.jpg" width="31%" alt="登场动画">
+  <img src="docs/battle.jpg" width="31%" alt="战斗界面">
+</p>
+<p align="center"><sub>选人 → 登场 → 战斗（宿傩血量跌破 90% 会召出魔虚罗）</sub></p>
+
 ## 参战角色
 
 | 角色 | 术式 | 奥义 |
