@@ -6,7 +6,9 @@
 
 > 试玩走的是国内节点。同一份文件也发布在 [GitHub Pages](https://linziyang777.github.io/jjk-shinjuku-battle/)，海外访问反而更顺；国内打开要等几分钟——47 MB 摆在那儿，绕不过去。
 
-![人外魔境 · 新宿决战](docs/cover.jpg)
+![实机对战演示](docs/demo.gif)
+
+<sub>↑ 无头 Chrome 真实跑出来的录像，不是概念图：蓄力 → 集中线 → 招式大字「八握剣」→ 全屏变色 → 伤害结算。560×350，5 秒，2.3 MB。</sub>
 
 ## 这是什么
 
@@ -22,6 +24,8 @@
   <img src="docs/battle.jpg" width="31%" alt="战斗界面">
 </p>
 <p align="center"><sub>选人 → 登场 → 战斗（宿傩血量跌破 90% 会召出魔虚罗）</sub></p>
+
+上面那张 GIF 同样出自这一局：无头 Chrome 打开 `index.html`，跳过开场影片、选五条悟、连点八招，逐帧抓下来再编码。全流程没有一点人工摆拍。
 
 ## 参战角色
 
