@@ -59,4 +59,6 @@
 
 ---
 
+同一个人做的：[林子炀 · 作品集](https://linziyang777.github.io/)
+
 觉得有意思的话，点个 star 就好。
